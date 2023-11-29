@@ -1,0 +1,12 @@
+##COLUMNS
+1
+##INTRO
+##LISTITEMS
+strict
+3
+##ITEM
+English - fluent
+##ITEM
+German - fluent
+##ITEM
+French - professional working proficiency

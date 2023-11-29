@@ -1,0 +1,34 @@
+##COLUMNS
+1
+##INTRO
+                        <table class="content-outer"> 
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    <h2>Microsoft &#45; Application Development Manager</h2>
+                                </td>
+                                <td width="50%" class="right-align">
+                                    <span class="larger">September 2018 &#45; April 2020</span>
+                                </td>
+			    </tr>
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    Microsoft Developer Support
+                                </td>
+                                <td width="50%" class="right-align">
+                                    Manchester, United Kingdom
+                                </td>
+			    </tr>
+			</table>
+##LISTITEMS
+5
+min-3
+##ITEM
+Led multiple customer accounts through the adoption of modern DevOps practices - such as Continuous Integration (CI) and Delivery (CD) - across a variety of target environments, industries, and with different DevOps tooling.
+##ITEM
+Built a DevOps culture workshop for the Microsoft Developer Support business that was subsequently delivered to customers worldwide with 80 deliveries in the UK and Ireland in the first year.
+##ITEM
+Rearchitected a major public sector customer’s automated testing platform and successfully moved it to a scalable cloud platform. Moving to the cloud led to cost savings of 75%.
+##ITEM
+Renewed 100% of owned customer contracts with an average 20% increase in contract volume.
+##ITEM
+Supported a wide range of Enterprise customers in different industries and with different technology stacks.

@@ -1,0 +1,36 @@
+##COLUMNS
+1
+##INTRO
+                        <table class="content-outer">
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    <h2>Microsoft &#45; Senior Technical Program Manager</h2>
+                                </td>
+                                <td width="50%" class="right-align">
+                                    <span class="larger">January 2022 &#45; present</span>
+                                </td>
+			    </tr>
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    Technical Sales Strategy
+                                </td>
+                                <td width="50%" class="right-align">
+                                    Vancouver, British Columbia
+                                </td>
+			    </tr>
+			</table>
+##LISTITEMS
+6
+min-5
+##ITEM
+Planned, designed, and implemented go-to-market strategy for key developer tools such as GitHub, Azure DevOps, Visual Studio, and Microsoft Dev Box serving thousands of internal customers in Sales and Marketing positions.
+##ITEM
+Scoped, designed, and launched key new Sales success metrics alongside a suite of technical reporting tools that help measure developer adoption across Microsoft products by working across several different product groups. Achieved measurable developer engagement growth within the first year.
+##ITEM
+Translated product strategy into targeted Sales motions and technical enablement efforts.
+##ITEM
+Created and operationalized technical field feedback integration process between GitHub and Microsoft, enabling both organizations to meet their feedback response targets for technical feedback the following financial year.
+##ITEM
+Designed and launched developer-focused customer engagement program for Azure Open AI to bring development guidance on how to work with Large Language Models (LLMs) into hundreds of customer accounts.
+##ITEM
+Drove product semester planning and roadmap prioritization efforts through strategic field feedback processes.

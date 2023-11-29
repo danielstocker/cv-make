@@ -1,0 +1,34 @@
+##COLUMNS
+1
+##INTRO
+                        <table class="content-outer">
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    <h2>Microsoft &#45; Technical Program Manager</h2>
+                                </td>
+                                <td width="50%" class="right-align">
+                                    <span class="larger">April 2020 &#45; January 2022</span>
+                                </td>
+			    </tr>
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    Azure Quantum
+                                </td>
+                                <td width="50%" class="right-align">
+                                    multiple locations
+                                </td>
+			    </tr>
+			</table>
+##LISTITEMS
+5
+min-4
+##ITEM
+Led design and delivery of first <a href="https://cloudblogs.microsoft.com/quantum/2021/11/15/unlocking-dramatic-improvements-to-capacity-management-with-azure-quantum/">Microsoft internal production use case</a> of an Azure Quantum solution in collaboration with the Azure Storage team. Achieved 8% improvement in load uniformity across Azure Storage infrastructure resulting in a 10X reduction in monthly support escalations for the service.
+##ITEM
+Partnered with Microsoft Support engineering team to onboard the Azure Quantum service to Azure Support by developing targeted integrations and meeting all key integration requirements for our public preview go live date.
+##ITEM
+Created the Azure Quantum Early Access program and owned community, feature request, and private preview launch processes for the service, releasing multiple different features in a phased preview ring approach.
+##ITEM
+Prioritized roadmap based on customer signal from early adopters and broad service telemetry analysis.
+##ITEM
+Built user interfaces (UI) proposals based on research with customers in key user personas before working with the senior leadership team and engineering to get ideas implemented.

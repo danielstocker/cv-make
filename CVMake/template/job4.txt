@@ -1,0 +1,30 @@
+##COLUMNS
+1
+##INTRO
+                        <table class="content-outer">
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    <h2>Microsoft &#45; Premier Field Engineer</h2>
+                                </td>
+                                <td width="50%" class="right-align">
+                                    <span class="larger">October 2016 &#45; September 2018</span>
+                                </td>
+			    </tr>
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    Microsoft Developer Support
+                                </td>
+                                <td width="50%" class="right-align">
+                                    London, United Kingdom
+                                </td>
+			    </tr>
+			</table>
+##LISTITEMS
+3
+min-2
+##ITEM
+Designed, architected, and delivered cloud adoption engagement for a major e-commerce customer centered around moving from a traditional monolithic .NET application to a distributed set of microservices in the cloud.
+##ITEM
+Collaborated closely with product teams, effectively channeling client feedback to drive actionable improvements.
+##ITEM
+Delivered DevOps transformation engagement with a key insurance customer resulting in a 25% improvement in their DORA assessment.

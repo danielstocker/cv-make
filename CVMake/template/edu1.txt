@@ -1,0 +1,30 @@
+##COLUMNS
+1
+##INTRO
+                        <table class="content-outer">
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    <h2>Bachelor of Science - Creative Computing</h2>
+                                </td>
+                                <td width="50%" class="right-align">
+                                    <span class="larger">September 2011 - July 2015</span>
+                                </td>
+			    </tr>
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    Goldsmiths College - University of London
+                                </td>
+                                <td width="50%" class="right-align">
+                                    London, United Kingdom
+                                </td>
+			    </tr>
+			</table>
+##LISTITEMS
+3
+strict
+##ITEM
+4-year degree with 1 year industry placement
+##ITEM
+graduated with "First Class honors" distinction.
+##ITEM
+Core modules taken: Artificial Intelligence, Data Mining, Compiler Theory

@@ -1,0 +1,30 @@
+##COLUMNS
+1
+##INTRO
+                        <table class="content-outer">
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    <h2>Microsoft &#45; Reactive Support Engineer</h2>
+                                </td>
+                                <td width="50%" class="right-align">
+                                    <span class="larger">September 2015 &#45; October 2016</span>
+                                </td>
+			    </tr>
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    Azure IaaS Support
+                                </td>
+                                <td width="50%" class="right-align">
+                                    Reading, United Kingdom
+                                </td>
+			    </tr>
+			</table>
+##LISTITEMS
+3
+min-2
+##ITEM
+Supported customers remotely in three languages, across different time zones and cultures.
+##ITEM
+Resolved zero-day security issue for a major retail customer, safeguarding valuable customer information and facilitating the successful launch of their new e-commerce site in Australia.
+##ITEM
+Developed support automation to detect and resolve common customer issues quickly, significantly reducing the team's top 3 support case root causes at that time.

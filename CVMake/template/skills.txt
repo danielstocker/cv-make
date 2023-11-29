@@ -1,0 +1,38 @@
+##COLUMNS
+2
+##INTRO
+##LISTITEMS
+flexible
+12
+##ITEM
+Software Development Lifecycle (SDLC) management with tools such as GitHub and Azure DevOps
+##ITEM
+Continuous Integration &amp; Deployment practices
+##ITEM
+Agile Software development practices 
+##ITEM
+SQL query languages for data drive decision making
+##ITEM
+Kusto and PowerBI reporting
+##ITEM
+Docker Containers
+##ITEM
+Kubernetes and Azure Kubernetes Service
+##ITEM
+Proficient with Office software for word processing, presentation and data analysis
+##ITEM
+Scripting and Automation in PowerShell and Bash
+##ITEM
+Cloud Architecture
+##ITEM
+Software Development using C# and Java
+##ITEM
+Developer Productivity software such as Microsoft Dev Box and GitHub Codespaces
+##ITEM
+User Interface (UI) design using Figma
+##ITEM
+IDEs such as Visual Studio and Visual Studio Code
+##ITEM
+Software Testing and Quality 
+##ITEM
+User Experience Research, Testing &amp; Validation

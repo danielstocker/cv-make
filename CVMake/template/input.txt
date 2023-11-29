@@ -1,0 +1,45 @@
+This position is remote-based 
+
+We're looking for a Senior Product Manager that can help us work on the future of building, testing, and scaling software!
+
+As a Senior Product Manager for Foundations in Manage Stage, you will be directly responsible for the direction of building user experiences that impact every single GitLab user ( SaaS as well as Self-Managed offering ). Specifically, you will be building & improving “Foundational Experiences” which includes Cross-stage UIs and user workflows that should be consistent, clearly designed, and iterated on like a feature to improve the overall user experience of GitLab. A thorough understanding of what good vs. great user experience looks like and ability to clearly articulate why a design works for the user & business is key to succeeding in this role.
+
+We recommend looking at our company page, the product handbook, our product categories, and the Manage Stage & Foundations Category Direction pages .
+What you will do:
+
+    Drive the product in the right direction
+        Build an effective roadmap to prioritize important features properly
+        Take high-level feature proposals and customer problems and break them into small iterations that engineering can work on
+        Balance new features, improvements, and bugfixes to ensure a high velocity and a stable product
+        Consider the business impact, ROI, and other implications when taking important decisions
+
+    Take an active role in defining the future
+        Contribute to the product vision, together with the Head of Product and CPO
+        Create and maintain a vision for your product area
+        Create and maintain the vision for each product category
+        Innovate within your product area by proposing ambitious features
+        Follow innovation in your product area
+        Communicate and evangelize your product vision internally and among the wider community
+
+    Manage the product lifecycle end-to-end
+        Follow feature development end-to-end; provide guidance and feedback to engineers and designers; ensure everyone is aligned
+        Be the voice of the customer and the subject-matter expert for your group
+        Contribute to documentation, blog posts, demos, and marketing materials for product features
+        Collaborate with other Product Managers, UX, and engineers in cross-area features to build a single application
+        Manage the uncertainty in an efficient way, adjusting plans to new working conditions
+
+    Engage with stakeholders in two-way communication
+        Assist Sales, Support, Customer Success, and Marketing as the subject-matter expert for your area
+        Talk to customers and engage with the community regularly
+        Engage with analysts on briefings and product evaluations
+        Work with the entire Product team to share improvements and best practices
+
+What you will bring:
+
+    Demonstrated experience developing products with high usability score and excellent user experience overall.
+    Excellent communication skills at all levels, including Executive level communication.
+    Strong technically: you understand how software is built, packaged, deployed and operated
+    Passion for design and usability
+    Highly independent and pragmatic
+    Bonus points: significant experience building successful user experiences for technical products
+    Bonus points: experience with GitLab

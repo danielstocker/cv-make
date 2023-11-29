@@ -1,0 +1,19 @@
+##COLUMNS
+2
+##INTRO
+##LISTITEMS
+flexible
+6
+droppable
+##ITEM
+Travel
+##ITEM
+Personal Finance
+##ITEM
+Digital Nomadism
+##ITEM
+Airline status runs
+##ITEM
+Real life runs along the coast
+##ITEM
+Vegan cooking

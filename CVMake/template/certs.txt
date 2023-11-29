@@ -1,0 +1,17 @@
+##COLUMNS
+2
+##INTRO
+
+##LISTITEMS
+5
+strict
+##ITEM
+Microsoft: <b>Azure Developer Associate</b>
+##ITEM
+Microsoft: <b>Azure Solutions Architect Expert</b>
+##ITEM
+Microsoft: <b>Technical Leadership Development Program</b>
+##ITEM
+Scrum.org: <b>Professional Scrum Master</b>
+##ITEM
+Microsoft: <b>DevOps Engineer Expert</b>

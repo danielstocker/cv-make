@@ -1,0 +1,28 @@
+##COLUMNS
+1
+##INTRO
+                        <table class="content-outer">
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    <h2>Microsoft &#45; Software Development Engineer</h2>
+                                </td>
+                                <td width="50%" class="right-align">
+                                    <span class="larger">July 2013 &#45; August 2014</span>
+                                </td>
+			    </tr>
+                            <tr>
+                                <td width="50%" class="left-align">
+                                    Bing
+                                </td>
+                                <td width="50%" class="right-align">
+                                    London, United Kingdom
+                                </td>
+			    </tr>
+			</table>
+##LISTITEMS
+2
+min-1
+##ITEM
+Built Bing search integration for Windows 8.1 store app as well as several Windows 8.1 consumer apps.
+## ITEM
+Automated several key on-call tasks significantly reducing the organization's out-of-hours time spent on escalations.
