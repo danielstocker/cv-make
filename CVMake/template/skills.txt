@@ -9,19 +9,19 @@ Software Development Lifecycle (SDLC) management with tools such as GitHub and A
 ##ITEM
 Continuous Integration &amp; Deployment practices
 ##ITEM
-Agile Software development practices 
+Agile Software development practices such as Scrum
 ##ITEM
-SQL query languages for data drive decision making
+SQL-style query languages for data drive decision making
 ##ITEM
-Kusto and PowerBI reporting
+Common reporting tools such as PowerBI and Tableau
 ##ITEM
-Docker Containers
+Cloud-native development using Docker containers
 ##ITEM
 Kubernetes and Azure Kubernetes Service
 ##ITEM
 Proficient with Office software for word processing, presentation and data analysis
 ##ITEM
-Scripting and Automation in PowerShell and Bash
+Common automation tools such as PowerShell or Bash
 ##ITEM
 Cloud Architecture
 ##ITEM
@@ -29,7 +29,7 @@ Software Development using C# and Java
 ##ITEM
 Developer Productivity software such as Microsoft Dev Box and GitHub Codespaces
 ##ITEM
-User Interface (UI) design using Figma
+Creating User Interface (UI) mockups using Figma
 ##ITEM
 IDEs such as Visual Studio and Visual Studio Code
 ##ITEM

@@ -95,12 +95,29 @@ public class Page
         
     }
 
-    private PageElement GetPageElementWithTheLowestRank() {
-        PageElement lowestElement = pageElements[pageElements.Count - 1];
+    internal int GetNumberElements()
+    {
+        return pageElements.Count;
+    }
 
-        int i = 0;
+    private PageElement GetPageElementWithTheLowestRank() {
+
+        PageElement lowestElement = null;
+        int i = 1;
+        for(i = 1; i < pageElements.Count; i++) {
+            lowestElement = pageElements[pageElements.Count - i];
+            if(!lowestElement.GetDropped()) {
+                break;
+            }
+        }
+        
         for(i = 0; i < pageElements.Count; i++){
             var element = pageElements[i];
+
+            if(element.GetDropped()) {
+                continue;
+            }
+            
             if(lowestElement == null) {
                 lowestElement = element;
                 lastLowestElement = i;
@@ -120,5 +137,7 @@ public class Page
 
         return lowestElement;
     }
+
+    
 }
 

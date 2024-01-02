@@ -271,13 +271,12 @@ public class Program
         {
             if (i > 0 && i % elementsPerPage == 0)
             {
-                currentPage++;
+                if(currentPage < (pages.Count() - 1)) {
+                    currentPage++;
+                }
+                
             }
             pages[currentPage].AddElement(pageElements[i]);
-        }
-
-        foreach(var page in pages) {
-            page.MeasureSize(browserTest);
         }
 
         var targetSize = Int32.Parse(Program.GetSetting("targetSize"));
@@ -294,20 +293,26 @@ public class Program
             page.MeasureSize(browserTest);
         }
 
-        var currentPage = 0;
-        for(int i = 0; i < pages.Count(); i++){
-            currentPage = i;
-            var lastSizeMeasured = pages[i].GetLastSizeMeasured();
+        for(int currentPage = 0; currentPage < pages.Count(); currentPage++){
+            var overflow = targetSize / pages[currentPage].GetNumberElements();
+
+            if(currentPage == pages.Count() - 1) {
+                // cannot overflow further
+                break;
+            }
+
+            var lastSizeMeasured = pages[currentPage].GetLastSizeMeasured();
             if(lastSizeMeasured > targetSize) {
-                if(lastSizeMeasured - targetSize > (targetSize / 6)) {
+                
+                while((lastSizeMeasured - targetSize) > overflow) {
                     // significant page overflow
                     // need to try and shift an element to a later page
-                    for(int n = 0; n < pages.Count(); n++) {
-                        if(n <= currentPage) {
-                            continue;
-                        }
+                    if((currentPage + 1) < pages.Count) {
                         var elementToShift = pages[currentPage].PickLastElement();
-                        pages[n].PushElement(elementToShift);
+                        pages[currentPage + 1].PushElement(elementToShift);
+                        pages[currentPage + 1].MeasureSize(browserTest);
+                        pages[currentPage].MeasureSize(browserTest);
+                        lastSizeMeasured = pages[currentPage].GetLastSizeMeasured();
                     }
                 }
             }
@@ -315,13 +320,24 @@ public class Program
 
         for(int i = 0; i < pages.Count(); i++){
             pages[i].MeasureSize(browserTest);
+            var previousSize = pages[i].GetLastSizeMeasured();
             while(pages[i].GetLastSizeMeasured() > targetSize) {
                 pages[i].ReduceElementLinesByOne();
+                previousSize = pages[i].GetLastSizeMeasured();
                 pages[i].MeasureSize(browserTest);
+
+                if((i == (pages.Count() - 1)) && (pages[i].GetLastSizeMeasured() == previousSize)) {
+                    // cannot overflow further
+                    break;
+                }
             }
 
             var leftOverSpace = targetSize - pages[i].GetLastSizeMeasured();
-            pages[i].AddElement(new PageElement(leftOverSpace));
+
+            if(leftOverSpace >= 0) {
+                pages[i].AddElement(new PageElement(leftOverSpace));
+            }
+            
         }
 
     }

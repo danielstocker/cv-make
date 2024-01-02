@@ -228,5 +228,10 @@ public class PageElement
 
         return overallRank / bulletsAdded;
     }
+
+    internal bool GetDropped()
+    {
+        return dropped;
+    }
 }
 
