@@ -294,6 +294,12 @@ public class Program
         }
 
         for(int currentPage = 0; currentPage < pages.Count(); currentPage++){
+
+            // IMPORTANT
+            // this part of the program is currently configured so that earlier elements of the resume
+            // are more likely to be displayed in full and take up most of the earlier pages/first page
+            // if the overflow calculation is changed so that the overflow is higher 
+            // then the end result is a resume with more elements that are on average smaller
             var overflow = targetSize / pages[currentPage].GetNumberElements();
 
             if(currentPage == pages.Count() - 1) {
