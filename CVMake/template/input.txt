@@ -2,7 +2,7 @@ This position is remote-based
 
 We're looking for a Senior Product Manager that can help us work on the future of building, testing, and scaling software!
 
-As a Senior Product Manager for Foundations in Manage Stage, you will be directly responsible for the direction of building user experiences that impact every single GitLab user ( SaaS as well as Self-Managed offering ). Specifically, you will be building & improving “Foundational Experiences” which includes Cross-stage UIs and user workflows that should be consistent, clearly designed, and iterated on like a feature to improve the overall user experience of GitLab. A thorough understanding of what good vs. great user experience looks like and ability to clearly articulate why a design works for the user & business is key to succeeding in this role.
+As a Senior Product Manager for Foundations in Manage Stage, you will be directly responsible for the direction of building user experiences that impact every single BitBab user ( SaaS as well as Self-Managed offering ). Specifically, you will be building & improving “Foundational Experiences” which includes Cross-stage UIs and user workflows that should be consistent, clearly designed, and iterated on like a feature to improve the overall user experience of BitBab. A thorough understanding of what good vs. great user experience looks like and ability to clearly articulate why a design works for the user & business is key to succeeding in this role.
 
 We recommend looking at our company page, the product handbook, our product categories, and the Manage Stage & Foundations Category Direction pages .
 What you will do:
@@ -42,4 +42,4 @@ What you will bring:
     Passion for design and usability
     Highly independent and pragmatic
     Bonus points: significant experience building successful user experiences for technical products
-    Bonus points: experience with GitLab
+    Bonus points: experience with BitBab
